@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Peyton Williams's first CS193 Lab
+Things I love about CS193:
+- It teaches me how to use github!
+- Awesome teachers
+- Lots of fun!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
